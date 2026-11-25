@@ -51,8 +51,6 @@ Download [`Stickly-v1.0.apk`](https://github.com/popeye0013/Stickly/releases/dow
 SHA-256: 01ce672fbd4130eab369f0d4a1957839a3cd49263729920bf60652d47359659b
 ```
 
-The APK is also committed in this repository as [`Stickly-v1.0.apk`](Stickly-v1.0.apk).
-
 ## Build
 
 Requirements: JDK 17 and Android SDK 36.
