@@ -24,6 +24,14 @@ Stickly is a native Android app built with Kotlin, Jetpack Compose and Material 
 
 The token stays on your device and is only sent to `api.telegram.org`.
 
+## Screenshots
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img1.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img1.png" alt="Stickly screenshot 1" width="220" /></a>
+  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img2.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img2.png" alt="Stickly screenshot 2" width="220" /></a>
+  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img3.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img3.png" alt="Stickly screenshot 3" width="220" /></a>
+</p>
+
 ## Features
 
 - Imports every sticker in a Telegram pack.
