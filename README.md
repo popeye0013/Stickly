@@ -69,17 +69,40 @@ app/build/outputs/apk/release/app-release.apk
 
 ## FAQ
 
-**Do I need a bot token?**
+<details>
+<summary><strong>Do I need a bot token?</strong></summary>
 
-Yes. Telegram's Bot API needs a token to read sticker sets. Create one with [@BotFather](https://t.me/BotFather), then save it in Stickly Settings.
+Yes. Telegram's Bot API needs a token to read sticker sets. Create one with [@BotFather](https://t.me/BotFather), then save it in Stickly Settings. The token stays on your device and is only sent to `api.telegram.org`.
 
-**Why is one Telegram pack split into several WhatsApp packs?**
+</details>
+
+<details>
+<summary><strong>Why is one Telegram pack split into several WhatsApp packs?</strong></summary>
 
 WhatsApp allows only 3–30 stickers per pack. Stickly splits larger sets evenly and names them `Name (1/4)`, `Name (2/4)`, and so on.
 
-**Can static and animated stickers be mixed?**
+</details>
+
+<details>
+<summary><strong>Can static and animated stickers be mixed?</strong></summary>
 
 No. WhatsApp rejects mixed packs. If any sticker animates, Stickly converts the whole pack to animated WebP.
+
+</details>
+
+<details>
+<summary><strong>Is anything uploaded from my device?</strong></summary>
+
+No analytics or tracking SDKs are included. Only the Telegram Bot API requests needed to read a pack and download its stickers leave your device.
+
+</details>
+
+<details>
+<summary><strong>Is Stickly affiliated with Telegram or WhatsApp?</strong></summary>
+
+No. Stickly is an independent, unofficial project. Trademarks and sticker content belong to their respective owners.
+
+</details>
 
 ## License
 
