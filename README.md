@@ -24,13 +24,28 @@ Stickly is a native Android app built with Kotlin, Jetpack Compose and Material 
 
 The token stays on your device and is only sent to `api.telegram.org`.
 
+---
+
 ## Screenshots
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img1.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img1.png" alt="Stickly screenshot 1" width="220" /></a>
-  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img2.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img2.png" alt="Stickly screenshot 2" width="220" /></a>
-  <a href="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img3.png"><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img3.png" alt="Stickly screenshot 3" width="220" /></a>
+  <sub>Tap a screenshot to open it full screen, then swipe or use ← → to slide through all three.</sub>
 </p>
+
+<table>
+  <tr>
+    <td align="center"><sub>01</sub></td>
+    <td align="center"><sub>02</sub></td>
+    <td align="center"><sub>03</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img1.png" width="260" alt="Stickly screenshot 1" /></td>
+    <td><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img2.png" width="260" alt="Stickly screenshot 2" /></td>
+    <td><img src="https://raw.githubusercontent.com/popeye0013/Dotfiles/main/Stickly/Screenshots/img3.png" width="260" alt="Stickly screenshot 3" /></td>
+  </tr>
+</table>
+
+---
 
 ## Features
 
